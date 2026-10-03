@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-slate-50: #f8fafc;
+}
+
+@layer base {
+
+  html,
+  body {
+    @apply h-full antialiased bg-slate-50 text-slate-900;
+  }
+}
