@@ -1,0 +1,1 @@
+# Syllabus BSON definitions are handled via schemas and dynamic Motor inserts
