@@ -7,3 +7,6 @@ PyJWT
 python-multipart
 email-validator
 python-jose[cryptography]
+streamlit>=1.30.0
+google-genai>=0.1.0
+openai>=1.0.0
